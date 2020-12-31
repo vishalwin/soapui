@@ -1,0 +1,5 @@
+"Test Suite","Test Case","Test Step","Step Type","Step Status","Result message","Execution Date"
+"TestSuite1","Addition","Add - Request","request","OK","","31-Dec-2020 12_03",
+"TestSuite1","Addition","Property Transfer","transfer","OK","Message:Performed transfer [TransferNumber]
+","31-Dec-2020 12_03",
+"TestSuite1","Addition","Multiply - Request 1","request","OK","","31-Dec-2020 12_03",
